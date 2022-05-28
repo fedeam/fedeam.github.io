@@ -1,12 +1,12 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "fedeam.github.io" # the base hostname & protocol for your site.
+url: "fedeam.github.io"
 
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: Your awesome site name :)
-header: Write something about you here...
+title: FedeAM  ノಠ益ಠノ彡┻━┻
+header: Random blog & dump brain...
 
 # for welcome page
 # to replace image go to index.html
@@ -14,9 +14,8 @@ email:
   address: "user@example.com"
   text: "user (at) example.com"
 
-# disqus comment
 disqus:
-    shortname: "test" #your disqus comment short name
+    shortname: "fedeam-blog"
 
 # google analytics
 google:
